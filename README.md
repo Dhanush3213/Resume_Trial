@@ -18,7 +18,7 @@ This online resume was created using HTML and CSS to showcase my skills, experie
 
 ## Preview
 
-You can view my resume live [here](URL_TO_YOUR_RESUME).
+You can view my resume live [here](https://dhanush3213.github.io/Resume_Trial/).
 
 ![Resume Preview](images/screenshot.png)
 
